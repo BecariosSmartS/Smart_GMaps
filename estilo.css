@@ -1,0 +1,8 @@
+/*
+ * General style sheet
+ */
+
+ body { font-family:"dejavu sans","arial",sans-Serif; font-size: 82%; margin: 2px; }
+
+ #map { width: 100%; height: 100%; float: center; }
+ 
